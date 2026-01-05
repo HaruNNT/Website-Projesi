@@ -1,4 +1,4 @@
-Tekstil'de Yeni Tercih (xxx) Makine
+Tekstil'de Yeni Tercih Teknik Makine
 
 Tekstil ve endüstriyel üretim alanlarında en yüksek kalite standartlarını hedefleyen firmalar için ileri düzey nakış makineler sunuyoruz. Geniş ürün yelpazemiz, yüksek hassasiyetli işleme kapasitesi, verimli çalışma performansı ve uzun ömürlü donanım özellikleriyle, işletmelerin üretim süreçlerini güçlendiriyoruz.
 
