@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <title>İletişim Teknik Nakış Makineleri</title>
+
+        <link rel="stylesheet" href="still.css"/>
+
+</head>
+
+<body>
+
+    <header>
+        <h1>İletişim</h1>
+        <p>Bizimle iletişime geçebilirsiniz</p>
+    </header>
+
+    <nav class="menu">
+        <a href="Anasayfa.html">Anasayfa</a>
+        <a href="hakkında.html">Hakkında</a>
+        <a href="modeller.html">Modeller</a>
+        <a href="özellikler.html">Özellikler</a>
+        <a href="galeri.html">Galeri</a>
+        <a href="teknik.html">Teknik Destek</a>
+        <a href="iletişim.html">İletişim</a>
+    </nav>
+
+    <div class="form-container">
+        <input type="text" id="name" placeholder="Adınız">
+        <input type="email" id="email" placeholder="E-posta">
+        <textarea id="message" rows="4" placeholder="Mesajınız"></textarea>
+        <button onclick="sendMessage()">Gönder</button>
+    </div>
+
+    <footer>
+        <p>
+            <a href="Anasayfa.html" style="color:#006600; font-weight:bold; text-decoration:none;">
+                Ana Sayfaya Dön
+            </a>
+        </p>
+        <p>&copy; 2025 Teknik Nakış Makineleri Rehberi - Tüm hakları saklıdır.</p>
+    </footer>
+
+    <script>
+        function sendMessage() {
+            const name = document.getElementById("name").value;
+            const email = document.getElementById("email").value;
+            const message = document.getElementById("message").value;
+
+            console.log("Ad:", name);
+            console.log("E-posta:", email);
+            console.log("Mesaj:", message);
+        }
+    </script>
+
+</body>
+</html>
