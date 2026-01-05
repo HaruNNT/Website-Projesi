@@ -8,3 +8,5 @@ Sektörde güven, kalite ve yenilikçi yaklaşımını benimseyen markamız, sat
 
 Harun Tayık 
 öğrenci no:25151513016
+
+https://teknikmakine.gt.tc/
